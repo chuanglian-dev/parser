@@ -16,7 +16,7 @@ import (
 	"strings"
 
 	"github.com/cznic/golex/lex"
-	"github.com/cznic/strutil"
+	"github.com/YKG/strutil"
 )
 
 // Node represents an AST node.

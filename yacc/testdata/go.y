@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cznic/strutil"
+	"github.com/YKG/strutil"
 )
 
 %}
